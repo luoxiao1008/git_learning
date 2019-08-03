@@ -1,1 +1,1 @@
-print('this world,mad world')
+print('this world,mad world,fuck the world')
